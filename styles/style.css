@@ -78,9 +78,14 @@ div#content .post p {
 div#content .post a {
 	float: right;
 	color: #ff99c1;
-	margin-top: 15px;
+	margin: 15px 0 0 20px;
+	padding: 5px;
+	border-radius: 3px;
 	text-decoration: none;
 	font-weight: bold;
+}
+div#content .post a:hover {
+	background-color: #f0f0f0;
 }
 div#transition {
 	width: 131px;
