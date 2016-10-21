@@ -18,7 +18,7 @@ header {
 }
 div#content {
 	width: 90%;
-	height: 3000px;
+	height: 2762px;
 	margin: 0 auto;
 	padding-top: 50px;
 	background-color: #fff;
@@ -68,7 +68,7 @@ div#content .post p {
 	width: 65%;
 	height: 350px;
 	padding: 10px;
-	font-size: 20px;
+	font-size: 30px;
 	font-weight: bold;
 	overflow: hidden;
 	text-overflow: ellipsis;
@@ -80,4 +80,36 @@ div#content .post a {
 	margin-top: 15px;
 	text-decoration: none;
 	font-weight: bold;
+}
+div#transition {
+	width: 131px;
+	height: 40px;
+	margin: 50px auto;
+	background: #fff;
+	overflow: hidden;
+	border: 1px solid gray;
+	border-radius: 5px;
+	box-shadow: 0 0 3px gray;
+}
+div#transition ul li {
+	float: left;
+	padding: 12px 17px;
+	border-right: 1px solid silver;
+	list-style: none;
+}
+div#transition ul li:hover {
+	background: #f0f0f0;	
+}
+div#transition ul li:last-child {
+	border: none;
+}
+div#transition ul li a {
+	color: #ff99c1;
+	text-decoration: none;
+}
+footer {
+	width: 100%;
+	height: 200px;
+	opacity: 0.5;
+	background-color: #000;
 }
