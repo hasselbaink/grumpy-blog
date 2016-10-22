@@ -142,5 +142,8 @@ footer {
 footer h1 {
 	color: #fff;
 	padding: 25px 0 0 20px;
-
+}
+footer h4 {
+	color: silver;
+	padding: 100px 0 0 20px;
 }
