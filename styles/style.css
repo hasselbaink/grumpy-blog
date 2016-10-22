@@ -49,7 +49,7 @@ div#content #welcome-div {
 }
 div#content #welcome-div img {
 	float: left;
-	width: 30%;
+	width: 300px;
 	padding: 20px 10px 10px 20px;
 }
 div#content #welcome-div h1 {
@@ -70,15 +70,16 @@ div#content .post {
 }
 div#content .post h2 {
 	float: left;
-	width: 80%;
+	width: 90%;
 }
 div#content .post h4 {
 	float: right;
+	width: 8%;
 	color: gray;
 }
 div#content .post img {
 	float: left;
-	width: 30%;
+	width: 300px;
 	padding: 10px;
 }
 div#content .post p {
