@@ -139,3 +139,8 @@ footer {
 	background-color: #7B6452;
 	box-shadow: 0 -1px 3px #7B6452;
 }
+footer h1 {
+	color: #fff;
+	padding: 25px 0 0 20px;
+
+}
